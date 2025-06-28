@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'GuestBook Pro',
+  title: 'GuestBook',
   description: 'A fullstack guestbook app made with Next.js and Supabase',
   icons: {
     icon: '/favicon.ico',
